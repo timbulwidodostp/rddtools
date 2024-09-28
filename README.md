@@ -1,6 +1,8 @@
 # rddtools
 Regresssion Design Discontinuity (RDD) parametric and nonparametric local linear Use rdd_reg_lm and rdd_reg_np (rddtools) With (In) R Software
 
+https://www.youtube.com/watch?v=O1dx5urazMc
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
